@@ -5,6 +5,8 @@ Real-time computer vision system using YOLOv8 to detect motorcycle helmets and l
 
 This project implements a real-time object detection system using YOLOv8 to identify motorcycle riders, their helmet usage, and license plates. The model processes live camera feeds to ensure traffic safety compliance.
 
+🔗 **[View the full annotated dataset on Roboflow](https://app.roboflow.com/chona/helmetnohelmet/models)**
+
 ## 📊 Dataset & Data Annotation
 **This project heavily relied on rigorous manual data annotation.** I personally built and curated the dataset from scratch:
 * **Size:** 1,140 images.
@@ -16,6 +18,9 @@ This project implements a real-time object detection system using YOLOv8 to iden
   * `1PNoHelmet` (1 Person, without helmet)
   * `2PNoHelmet` (2 Persons, at least one without helmet)
   * `LicensePlate`
+
+ ## Model
+ **Check the model** https://drive.google.com/drive/folders/10CUniM-NlrZTFSkWrjHaexQ-dYA0Uawp?usp=sharing
 
 
 
